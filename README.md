@@ -20,4 +20,7 @@ Mac OS苹果笔记本电脑                            | [v2rayU](https://www.v2
 ### v2ray(ss/trojan)节点订阅链接  
 - `https://ssr.giize.com/api/v1/client/subscribe?token=65ae8c3e1e8157c1fe382dca82828880`  
 ### 自定义节点订阅  
-用开源模板搭了个订阅网站，有需要自取：[永久免费订阅](https://bulink.xyz)（[bulink.xyz](https://bulink.xyz)注册除可订阅本页免费节点，还有每月5G自建节点免费流量，不用打卡签到长期有效。现启用新订阅域名bulink.me，大幅优化订阅请求响应速度，欢迎使用）  
+用开源模板搭了个订阅网站，有需要自取：[永久免费订阅](https://bulink.xyz)（[bulink.xyz](https://bulink.xyz)注册除可订阅本页免费节点，还有每月5G自建节点免费流量，不用打卡签到长期有效。现启用新订阅域名bulink.me，大幅优化订阅请求响应速度，欢迎使用）
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInVzLmdkaXZwcy5jb20t576O5Zu9NeS4iee9keebtOi/niIsDQogICJhZGQiOiAidXMwMS51cmwuY2FzYWNhbS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzNjZGY0YTgtY2EzMC00OTU5LWEzMjQtNmE3NWRiNWE1NGU4IiwNCiAgImFpZCI6ICIyIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1czAxLnVybC5jYXNhY2FtLm5ldCIsDQogICJwYXRoIjogIi9hNTU2NTZmLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInVzLmdkaXZwcy5jb20t5qyn5beeSVBWNiIsDQogICJhZGQiOiAiZXVzZXJ2LmdkaXZwcy5jZiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJjM2NkZjRhOC1jYTMwLTQ5NTktYTMyNC02YTc1ZGI1YTU0ZTgiLA0KICAiYWlkIjogIjIiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImV1c2Vydi5nZGl2cHMuY2YiLA0KICAicGF0aCI6ICIvYTU1NjU2Zi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
