@@ -1,7 +1,12 @@
 # free  
 更新时间 2021-05-16 00:00  
 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子  
-所有资源都爬取自网络免费资源，请勿用于非法用途  
+所有资源都爬取自网络免费资源，请勿用于非法用途
+|  工具  | Android安卓手机  | Windows电脑  | iOS苹果手机  |   Mac OS苹果笔记本  |  
+|  ----  | ----   | ----  |----  |  
+| v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) | [OneClick](https://oneclick.earth/) |  
+| ssr  |[shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk) | [shadowsocksr-windows](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/download/4.7.0/ShadowsocksR-4.7.0-win.7z) | - |
+
 |  工具  | Android  | Windows  | iOS  |  
 |  ----  | ----   | ----  |----  |  
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) | [v2rayU](https://www.v2rayssr.com/go?url=https://github.com/yanue/V2rayU/releases/download/1.5.1/V2rayU.dmg) |   
