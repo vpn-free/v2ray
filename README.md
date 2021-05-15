@@ -1,7 +1,11 @@
 # free  
 更新时间 2021-05-16 00:00  
-翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子  
+免费ss/ssr/v2ray/trojan节点、蓝灯、佛跳墙、谷歌商店、梯子、老王VPN、极地部落VPN、2021年、2022年在中国可用的VPN、安卓APK安装文件下载
 所有资源都爬取自网络免费资源，请勿用于非法用途
+
+根据您的设备，选择相应的客户端工具下载
+Android安卓手机  [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk)
+
 |  工具  | Android安卓手机  | Windows电脑  | iOS苹果手机  |   Mac OS苹果笔记本  |  
 |  ----  | ----   | ----  |----  |  
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) | [OneClick](https://oneclick.earth/) |  
