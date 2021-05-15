@@ -16,7 +16,7 @@ Mac OS苹果笔记本电脑                            | [v2rayU](https://www.v2
 ### v2rayN软件win10使用教程(必看)：[点击查看](https://us.gdivps.com/?p=108)  
 免费节点每月5G流量，月底自动重置，请勿滥用。由于使用人数过多，速度和稳定性难以保障，注册 [极地部落VPN](https://ssr.giize.com/) 即可享受全球30+高速稳定节点，畅看4K视频
 ### v2ray(ss/trojan)节点订阅链接（客户端中添加订阅链接即可一键导入所有节点）
-- `https://ssr.giize.com/api/v1/client/subscribe?token=65ae8c3e1e8157c1fe382dca82828880`  
+- `https://script.gdivps.com`  
 ### 手动单个或批量添加节点（全选并复制以下节点链接，v2rayN或苹果小火箭客户端中点+号选择剪贴板添加节点）  
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInVzLmdkaXZwcy5jb20t576O5Zu9NeS4iee9keebtOi/niIsDQogICJhZGQiOiAidXMwMS51cmwuY2FzYWNhbS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzNjZGY0YTgtY2EzMC00OTU5LWEzMjQtNmE3NWRiNWE1NGU4IiwNCiAgImFpZCI6ICIyIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1czAxLnVybC5jYXNhY2FtLm5ldCIsDQogICJwYXRoIjogIi9hNTU2NTZmLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
