@@ -5,7 +5,9 @@
 
 根据您的设备，选择相应的客户端工具，直接点击工具名称开始下载
 
-Android安卓手机  [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk)
+Android安卓手机  [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk)   
+Windows电脑  [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip)   
+iOS苹果手机（中国区以外apple id才能免费下载）  [OneClick](https://oneclick.earth/)   
 
 |  工具  | Android安卓手机  | Windows电脑  | iOS苹果手机  |   Mac OS苹果笔记本  |  
 |  ----  | ----   | ----  |----  |  
